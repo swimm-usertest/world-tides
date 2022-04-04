@@ -1,5 +1,5 @@
-# worldtidesinfocustom
-world tides info custom component for [Home Assistant](https://home-assistant.io/).
+# world tides
+world tides component for [Home Assistant](https://home-assistant.io/).
 
 
 ![GitHub release](https://img.shields.io/github/release/jugla/worldtidesinfocustom)
