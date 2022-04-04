@@ -1,0 +1,5 @@
+{
+  "name": "worldtidesinfocustom",
+  "domains": ["sensor", "camera"],
+  "iot_class": "cloud_polling"
+}
